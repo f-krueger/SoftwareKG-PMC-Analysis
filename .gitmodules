@@ -1,0 +1,3 @@
+[submodule "SoMeNLP"]
+	path = SoMeNLP
+	url = git@github.com:dave-s477/SoMeNLP.git
